@@ -12,8 +12,8 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Praveenx1&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Praveenx1&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
+### ✍️ "Imagination is more important than knowledge. For knowledge is limited, whereas imagination embraces the entire world, stimulating progress, giving birth to evolution." — Albert Einstein
+<!--![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark) -->
 
 ---
 [![](https://visitcount.itsvg.in/api?id=Praveenx1&icon=0&color=0)](https://visitcount.itsvg.in)
